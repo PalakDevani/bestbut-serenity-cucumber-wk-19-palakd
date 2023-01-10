@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CRUD test","This will create new product","ERROR","2023-01-10T22:59:03.165Z[Europe/London]","0.0","12.15"
+"Product CRUD test","Getting the product information with id:","ERROR","2023-01-10T22:59:15.390Z[Europe/London]","0.0","4.12"
+"Product CRUD test","Updating product information and verify the updated information","ERROR","2023-01-10T22:59:19.515Z[Europe/London]","0.0","4.09"
+"Product CRUD test","Deleting product with id and verify that user is deleted","ERROR","2023-01-10T22:59:23.612Z[Europe/London]","0.0","4.11"
